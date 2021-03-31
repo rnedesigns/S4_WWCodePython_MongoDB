@@ -1,6 +1,6 @@
 # S4_WWCodePython_MongoDB
 
-MongoDB session with Python:
+**MongoDB session with Python:**
 
 **Tools & Language:** MongoDB Community Server, MongoDB Compass (GUI for MongoDB database), Python and Jupyter Notebook
 
