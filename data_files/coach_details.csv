@@ -1,0 +1,14 @@
+_id,first_name,gender,shift,ph_num,trains_for,manager
+1,Roldoro,M,"[""AM"",""PM""]",456378903,"[""valleyball"",""basketball""]",Jack
+6055238f43365ed3225160eb,Audrey,F,AM,234564980,"[""tennis"",""badminton""]",Jack
+6055238f43365ed3225160ec,William,M,AM,987654321,"[""valleyball"",""basketball""]",Amin
+6055238f43365ed3225160ed,Deo,M,PM,456234908,badminton,Amin
+6055238f43365ed3225160ee,Sutton,M,AM,123456789,tennis,Jack
+6055238f43365ed3225160ef,Emma,F,PM,776655443,indoor archery,Amin
+6055238f43365ed3225160f0,Hira,F,"[""AM"",""PM""]",246813579,"[""valleyball"",""basketball""]",Jack
+6055238f43365ed3225160f1,Isha,F,PM,135792468,indoor archery,Amin
+6055238f43365ed3225160f2,Alice,M,AM,2244668800,badminton,Jack
+6055238f43365ed3225160f3,Deepali,F,"[""AM"",""PM""]",113355779,"[""tennis"",""badminton""]",Amin
+6055239143365ed3225160f4,test_1,F,AM,234564980,"[""tennis"",""badminton""]",Jack
+6055239143365ed3225160f5,test_2,M,AM,987654321,"[""valleyball"",""basketball""]",Amin
+14,test_3,M,AM,987654321,"[""valleyball"",""basketball""]",Amin

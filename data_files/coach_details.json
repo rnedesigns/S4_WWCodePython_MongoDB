@@ -1,0 +1,160 @@
+[{
+  "_id": 1,
+  "first_name": "Roldoro",
+  "gender": "M",
+  "shift": [
+    "AM",
+    "PM"
+  ],
+  "ph_num": 456378903,
+  "trains_for": [
+    "valleyball",
+    "basketball"
+  ],
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe729"
+  },
+  "first_name": "Audrey",
+  "gender": "F",
+  "shift": "AM",
+  "ph_num": 234564980,
+  "trains_for": [
+    "tennis",
+    "badminton"
+  ],
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72a"
+  },
+  "first_name": "William",
+  "gender": "M",
+  "shift": "AM",
+  "ph_num": 987654321,
+  "trains_for": [
+    "valleyball",
+    "basketball"
+  ],
+  "manager": "Amin"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72b"
+  },
+  "first_name": "Deo",
+  "gender": "M",
+  "shift": "PM",
+  "ph_num": 456234908,
+  "trains_for": "badminton",
+  "manager": "Amin"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72c"
+  },
+  "first_name": "Sutton",
+  "gender": "M",
+  "shift": "AM",
+  "ph_num": 123456789,
+  "trains_for": "tennis",
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72d"
+  },
+  "first_name": "Emma",
+  "gender": "F",
+  "shift": "PM",
+  "ph_num": 776655443,
+  "trains_for": "indoor archery",
+  "manager": "Amin"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72e"
+  },
+  "first_name": "Hira",
+  "gender": "F",
+  "shift": [
+    "AM",
+    "PM"
+  ],
+  "ph_num": 246813579,
+  "trains_for": [
+    "valleyball",
+    "basketball"
+  ],
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe72f"
+  },
+  "first_name": "Isha",
+  "gender": "F",
+  "shift": "PM",
+  "ph_num": 135792468,
+  "trains_for": "indoor archery",
+  "manager": "Amin"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe730"
+  },
+  "first_name": "Alice",
+  "gender": "M",
+  "shift": "AM",
+  "ph_num": 2244668800,
+  "trains_for": "badminton",
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37bbb59db9856efe731"
+  },
+  "first_name": "Deepali",
+  "gender": "F",
+  "shift": [
+    "AM",
+    "PM"
+  ],
+  "ph_num": 113355779,
+  "trains_for": [
+    "tennis",
+    "badminton"
+  ],
+  "manager": "Amin"
+},{
+  "_id": {
+    "$oid": "6053d37ebb59db9856efe732"
+  },
+  "first_name": "test",
+  "gender": "F",
+  "shift": "AM",
+  "ph_num": 234564980,
+  "trains_for": [
+    "tennis",
+    "badminton"
+  ],
+  "manager": "Jack"
+},{
+  "_id": {
+    "$oid": "6053d37ebb59db9856efe733"
+  },
+  "first_name": "test",
+  "gender": "M",
+  "shift": "AM",
+  "ph_num": 987654321,
+  "trains_for": [
+    "valleyball",
+    "basketball"
+  ],
+  "manager": "Amin"
+},{
+  "_id": 14,
+  "first_name": "test",
+  "gender": "M",
+  "shift": "AM",
+  "ph_num": 987654321,
+  "trains_for": [
+    "valleyball",
+    "basketball"
+  ],
+  "manager": "Amin"
+}]

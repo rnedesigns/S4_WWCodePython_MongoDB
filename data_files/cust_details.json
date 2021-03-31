@@ -1,0 +1,71 @@
+[{
+  "_id": 1,
+  "first_name": "John",
+  "gender": "M",
+  "mem_type": "gold",
+  "coach": "Roldoro",
+  "batch": "AM",
+  "num_of_sessions_week": 3,
+  "sport_registered": "valleyball",
+  "price_month": 27
+},{
+  "_id": 2,
+  "first_name": "Abbas",
+  "gender": "F",
+  "mem_type": "gold",
+  "coach": "Roldoro",
+  "batch": "AM",
+  "num_of_sessions_week": 3,
+  "sport_registered": "valleyball",
+  "price_month": 27
+},{
+  "_id": 3,
+  "first_name": "Kate",
+  "gender": "F",
+  "mem_type": "gold",
+  "coach": "Roldoro",
+  "batch": "PM",
+  "num_of_sessions_week": 3,
+  "sport_registered": "basketball",
+  "price_month": 27
+},{
+  "_id": 4,
+  "first_name": "Adnan",
+  "gender": "F",
+  "mem_type": "silver",
+  "coach": "Roldoro",
+  "batch": "PM",
+  "num_of_sessions_week": 2,
+  "sport_registered": "basketball",
+  "price_month": 24
+},{
+  "_id": 5,
+  "first_name": "Kim",
+  "gender": "M",
+  "mem_type": "silver",
+  "coach": "William",
+  "batch": "PM",
+  "num_of_sessions_week": 2,
+  "sport_registered": "badminton",
+  "price_month": 24
+},{
+  "_id": 6,
+  "first_name": "Akhil",
+  "gender": "F",
+  "mem_type": "platinum",
+  "coach": "William",
+  "batch": "PM",
+  "num_of_sessions_week": 4,
+  "sport_registered": "badminton",
+  "price_month": 30
+},{
+  "_id": 7,
+  "first_name": "Madison",
+  "gender": "M",
+  "mem_type": "silver",
+  "coach": "William",
+  "batch": "AM",
+  "num_of_sessions_week": 2,
+  "sport_registered": "tt",
+  "price_month": 24
+}]
