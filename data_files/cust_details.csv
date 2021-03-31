@@ -1,0 +1,8 @@
+_id,first_name,gender,mem_type,coach,batch,num_of_sessions_week,sport_registered,price_month
+1,John,M,gold,Roldoro,AM,3,valleyball,27
+2,Abbas,F,gold,Roldoro,AM,3,valleyball,27
+3,Kate,F,gold,Roldoro,PM,3,basketball,27
+4,Adnan,F,silver,Roldoro,PM,2,basketball,24
+5,Kim,M,silver,William,PM,2,badminton,24
+6,Akhil,F,platinum,William,PM,4,badminton,30
+7,Madison,M,silver,William,AM,2,tt,24
