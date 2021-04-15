@@ -15,4 +15,6 @@ This session covers the beginner level to interact with NoSQL (MongoDB) database
 
 > Jupyter Notebook - $ pip3 install notebook 
 
+> This is the [Video on MongoDB database + Python3](https://www.youtube.com/watch?v=8ggwv9IPNGk) you can watch - I have done the code demo to demonstrate interaction with MongoDB database with Python3 via Jupyter Notebook and IDE (VS Code I have used here)..
+
 Other tools can also be used to work with MongoDB database are: MongoDB Atlas and Mongo Shell, which are explained at high level.  
