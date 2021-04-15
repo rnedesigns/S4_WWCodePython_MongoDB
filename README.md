@@ -17,6 +17,6 @@ This session covers the beginner level to interact with NoSQL (MongoDB) database
 
 > You can watch the [Video on MongoDB database + Python3](https://www.youtube.com/watch?v=8ggwv9IPNGk) - I have done the code demo to demonstrate interaction with MongoDB database with Python3 via Jupyter Notebook and IDE (VS Code I have used here)
 
-> In this article, I have articulated it in bit more detail with the screenshots: [MongoDB with Python3](https://ramya-n.medium.com/mongodb-nosql-and-python-25b4956a591)
+> In this article, I have articulated it in bit more detail with the code snippets: [MongoDB with Python3](https://ramya-n.medium.com/mongodb-nosql-and-python-25b4956a591)
 
 Other tools can also be used to work with MongoDB database are: MongoDB Atlas and Mongo Shell, which are explained at high level.  
